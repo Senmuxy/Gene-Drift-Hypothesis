@@ -9,7 +9,7 @@
 </p>
 
 ## *A Comprehensive Theory of Tokenomic Evolution, Mutation Pressure, and Behavioral Drift in On-Chain Assets*
- 
+  
 ---
 
 # **1. Introduction, Tokens as Evolutionary Organisms**
